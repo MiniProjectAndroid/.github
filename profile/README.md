@@ -4,7 +4,7 @@
 
 🌈 Contribution guidelines - the community can helps us with more features or creative ideas and also by using the mobile application and give us feedback
 
-👩‍💻 Useful resources -  in case any one want to contact by e-mail : 
+👩‍💻 Useful resources - your can find the docs in our github repositorys ,in case you want to contact by e-mail : 
  - mohamedaziz.mhadhbi@esprit.tn
  - sinda.arous@esprit.tn
 
@@ -12,8 +12,6 @@ or by LinkedIn :
 
  - [Mohamed Aziz Mhadhbi](https://www.linkedin.com/in/mohamed-aziz-mhadhbi/)
  - [Sinda Arous](https://www.linkedin.com/in/arous-sinda-240443193/)
-
-or you can read the readme documents of our repositorys
 
 🍿 Fun facts - in breakfast ,we eat a lot of [peaches](https://www.youtube.com/watch?v=do5KKKxI7FQ) getting some vitamin C :wink:
 
